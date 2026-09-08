@@ -1,25 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm **Akinchan Maji**
+# 👋 Hey, I'm **Akinchan Maji**
 
-### 💻 Full Stack Developer | 🚀 Web Application Builder | 🇮🇳 India
-
-<p>
-  <a href="https://github.com/akinchan24">
-    <img src="https://komarev.com/ghpvc/?username=akinchan24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/akinchan24?tab=followers">
-    <img src="https://img.shields.io/github/followers/akinchan24?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
+### 💻 Full Stack Developer • 🚀 Building Real-World Applications • 🇮🇳 India
 
 <p>
   <a href="https://akinchan-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6C63FF?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="mailto:akinchanmaji601@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email"/>
   </a>
+  <a href="https://linkedin.com/in/akinchanmaji">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=akinchan24&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/akinchan24?label=Followers&style=flat-square&color=blue&logo=github" alt="GitHub Followers"/>
 </p>
 
 </div>
@@ -28,16 +28,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer from India** who enjoys designing and building modern, scalable and user-focused web applications.
+I'm a passionate **Full Stack Developer from India** who enjoys creating modern, scalable and user-focused applications.
 
-I love working across the **frontend, backend, databases and deployment** layers of an application and continuously improving my development skills through real-world projects.
+I love turning ideas into working products and exploring technologies across the **frontend, backend, database and deployment** layers.
 
 * 🔭 Currently working on **[RYDEX](https://rydex-rose.vercel.app/)**
 * 🌱 Currently learning **React**
-* 💡 Interested in **Full Stack Web Development**
-* 🚀 Focused on building practical and scalable applications
-* 🧠 Always exploring new technologies and development practices
-* 🌐 Portfolio: **[akinchan-portfolio.vercel.app](https://akinchan-portfolio.vercel.app/)**
+* 💻 Interested in **Full Stack Development**
+* 🚀 Building practical real-world applications
+* 🧠 Continuously learning and improving
+* 🌐 Check out my **[Portfolio](https://akinchan-portfolio.vercel.app/)**
 
 ---
 
@@ -45,78 +45,48 @@ I love working across the **frontend, backend, databases and deployment** layers
 
 <div align="center">
 
-### 🚕 RYDEX
+# 🚕 RYDEX
 
-**A modern full-stack ride/transportation application**
+### A modern full-stack transportation application
+
+<p>
+  <a href="https://rydex-rose.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20RYDEX-6C63FF?style=for-the-badge" alt="RYDEX Live Demo"/>
+  </a>
+</p>
 
 </div>
 
-RYDEX is one of my current projects where I'm working on building a real-world application while improving my skills across the full development stack.
+I'm currently working on RYDEX as a real-world full-stack project, focusing on building a modern and scalable application.
 
 **Current focus:**
-
-```text
-⚛️ Frontend Development
-🔐 Authentication
-🗄️ Database Integration
-⚡ Backend Development
-📊 Application Features
-🌐 Deployment & Optimization
-```
-
-<p align="center">
-  <a href="https://rydex-rose.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20View%20RYDEX-Live%20Project-0e75b6?style=for-the-badge" alt="RYDEX"/>
-  </a>
-</p>
+`⚛️ Frontend` • `⚙️ Backend` • `🔐 Authentication` • `🗄️ Database` • `⚡ APIs` • `🌐 Deployment`
 
 ---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" alt="Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" alt="Languages"/>
 
 ### ⚛️ Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend"/>
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend"/>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 
 ### ☁️ DevOps & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="DevOps and Tools"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/akinchan24">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akinchan24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Akinchan's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/akinchan24">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinchan24&layout=compact&langs_count=8&hide_border=true" alt="Akinchan's Top Languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="DevOps & Tools"/>
 
 </div>
 
@@ -126,17 +96,7 @@ RYDEX is one of my current projects where I'm working on building a real-world a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=akinchan24&hide_border=true" alt="Akinchan's GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 📅 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinchan24&theme=github_dark" alt="GitHub Profile Details"/>
+<img src="https://streak-stats.demolab.com/?user=akinchan24&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -146,35 +106,41 @@ RYDEX is one of my current projects where I'm working on building a real-world a
 
 <div align="center">
 
-### 🚕 RYDEX
-
-Full-stack transportation / ride-booking application.
-
 <a href="https://rydex-rose.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/🚕%20RYDEX-Transportation%20Platform-6C63FF?style=for-the-badge" alt="RYDEX"/>
+</a>
+
+  
+
+<a href="https://github.com/akinchan24?tab=repositories">
+  <img src="https://img.shields.io/badge/📂%20More%20Projects-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 </div>
 
-<br>
+### 🚕 RYDEX
 
-<!--
-Add your best repositories below.
+**Full Stack Transportation Application**
 
-Replace YOUR_REPOSITORY_NAME with the actual repository name.
+A real-world project currently under development, focused on building a modern transportation experience.
 
-Example:
+**Technologies:**
+`React` `Next.js` `Node.js` `MongoDB` `JavaScript`
 
-<a href="https://github.com/akinchan24/YOUR_REPOSITORY_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akinchan24&repo=YOUR_REPOSITORY_NAME&hide_border=true" />
-</a>
--->
+**Status:** 🟢 Active Development
+
+---
+
+## 💡 What I Work With
 
 <div align="center">
 
-<a href="https://github.com/akinchan24?tab=repositories">
-  <img src="https://img.shields.io/badge/📂%20Explore-All%20Repositories-181717?style=for-the-badge&logo=github" alt="All Repositories"/>
-</a>
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | ☁️ DevOps |
+| :---------: | :--------: | :----------: | :-------: |
+|    React    |   Node.js  |    MongoDB   |    AWS    |
+|   Next.js   |   Spring   |     MySQL    |   Docker  |
+|  JavaScript |    Java    |       —      |   Linux   |
+|  HTML / CSS |  REST APIs |       —      |    Git    |
 
 </div>
 
@@ -185,36 +151,67 @@ Example:
 <div align="center">
 
 <a href="https://linkedin.com/in/akinchanmaji">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://twitter.com/akinchan_maji">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter"/>
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://instagram.com/akinchan_maji_24">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.hackerrank.com/akinchanmaji601">
-  <img src="https://skillicons.dev/icons?i=hackerrank" width="45" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://leetcode.com/akinchan24">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="45" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
 <div align="center">
 
-`Full Stack Development` • `React` • `Next.js` • `JavaScript` • `Java`
+`Full Stack Development`  • 
+`React`  • 
+`Next.js`  • 
+`JavaScript`
 
-`Node.js` • `MongoDB` • `MySQL` • `Spring` • `Git` • `Web Development`
+`Java`  • 
+`Node.js`  • 
+`MongoDB`  • 
+`MySQL`
+
+`Spring`  • 
+`REST APIs`  • 
+`Git`  • 
+`Web Development`
+
+</div>
+
+---
+
+# 🐍 Watch My Contributions Come Alive
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 👾 Pac-Man Is Eating My Contributions
+
+<div align="center">
+
+<img src="https://pacman.abozanona.me?username=akinchan24" alt="Pac-Man Contribution Graph"/>
 
 </div>
 
@@ -224,13 +221,11 @@ Example:
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-### I'm always open to learning, building and collaborating.
+### 🚀 Let's build something amazing together!
 
 <p>
   <a href="https://akinchan-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="mailto:akinchanmaji601@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" alt="Email"/>
@@ -240,11 +235,7 @@ Example:
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
+### 💙 Thanks for visiting my profile!
 
 **⚡ Build • Learn • Improve • Repeat ⚡**
 
