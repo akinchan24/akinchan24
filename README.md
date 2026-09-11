@@ -1,16 +1,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/akinchan24/akinchan24/blob/main/dark.svg"
+    srcset="https://raw.githubusercontent.com/akinchan24/akinchan24/main/dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/akinchan24/akinchan24/blob/main/light.svg"
+    srcset="https://raw.githubusercontent.com/akinchan24/akinchan24/main/light.svg"
   />
 
   <img
-    src="https://github.com/akinchan24/akinchan24/blob/main/light.svg"
+    src="https://raw.githubusercontent.com/akinchan24/akinchan24/main/light.svg"
     alt="Akinchan Maji — Full Stack Developer"
     width="100%"
   />
