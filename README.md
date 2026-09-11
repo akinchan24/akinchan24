@@ -37,14 +37,4 @@
 
 </div>
 
----
-
-# 👾 Pac-Man Is Eating My Contributions
-
-<div align="center">
-
-<img src="https://pacman.abozanona.me?username=akinchan24" alt="Pac-Man Contribution Graph"/>
-
-</div>
-
 
