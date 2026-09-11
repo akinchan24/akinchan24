@@ -58,24 +58,6 @@ I love turning ideas into working products and exploring technologies across the
 
 ---
 
-## 🚀 Currently Building
-
-<div align="center">
-
-# 🚕 RYDEX
-
-### A modern full-stack transportation application
-
-<p>
-  <a href="https://rydex-rose.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20RYDEX-6C63FF?style=for-the-badge" alt="RYDEX Live Demo"/>
-  </a>
-</p>
-
-</div>
-
-I'm currently working on RYDEX as a real-world full-stack project, focusing on building a modern and scalable application.
-
 **Current focus:**
 `⚛️ Frontend` • `⚙️ Backend` • `🔐 Authentication` • `🗄️ Database` • `⚡ APIs` • `🌐 Deployment`
 
