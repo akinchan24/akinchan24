@@ -101,35 +101,6 @@ I love turning ideas into working products and exploring technologies across the
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://rydex-rose.vercel.app/">
-  <img src="https://img.shields.io/badge/🚕%20RYDEX-Transportation%20Platform-6C63FF?style=for-the-badge" alt="RYDEX"/>
-</a>
-
-  
-
-<a href="https://github.com/akinchan24?tab=repositories">
-  <img src="https://img.shields.io/badge/📂%20More%20Projects-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-</div>
-
-### 🚕 RYDEX
-
-**Full Stack Transportation Application**
-
-A real-world project currently under development, focused on building a modern transportation experience.
-
-**Technologies:**
-`React` `Next.js` `Node.js` `MongoDB` `JavaScript`
-
-**Status:** 🟢 Active Development
-
----
-
 ## 💡 What I Work With
 
 <div align="center">
